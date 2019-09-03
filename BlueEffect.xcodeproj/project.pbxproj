@@ -42,6 +42,7 @@
 		BD980645231E9CA9003A2C86 = {
 			isa = PBXGroup;
 			children = (
+				BD980668231EA113003A2C86 /* Documents */,
 				BD980650231E9CA9003A2C86 /* BlueEffect */,
 				BD98064F231E9CA9003A2C86 /* Products */,
 			);
@@ -68,6 +69,13 @@
 				BD980658231E9CA9003A2C86 /* BlueEffect.xcdatamodeld */,
 			);
 			path = BlueEffect;
+			sourceTree = "<group>";
+		};
+		BD980668231EA113003A2C86 /* Documents */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Documents;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
